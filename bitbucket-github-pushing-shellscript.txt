@@ -1,0 +1,11 @@
+Example program to create a shell script which will push the changes to both github and bitbucket
+
+
+
+
+
+
+
+
+
+shellscript- push.sh
