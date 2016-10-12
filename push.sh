@@ -3,4 +3,4 @@
 git add -A
 git commit
 git push origin master
-git push github master
+git push github1 master
